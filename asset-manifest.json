@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/owleye/static/css/main.68c6739c.chunk.css",
-    "main.js": "/owleye/static/js/main.3e070f7e.chunk.js",
-    "main.js.map": "/owleye/static/js/main.3e070f7e.chunk.js.map",
+    "main.css": "/owleye/static/css/main.cdae5e68.chunk.css",
+    "main.js": "/owleye/static/js/main.18ebdb47.chunk.js",
+    "main.js.map": "/owleye/static/js/main.18ebdb47.chunk.js.map",
     "runtime-main.js": "/owleye/static/js/runtime-main.cef5e35a.js",
     "runtime-main.js.map": "/owleye/static/js/runtime-main.cef5e35a.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/owleye/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.55656998.chunk.js": "/owleye/static/js/2.55656998.chunk.js",
-    "static/js/2.55656998.chunk.js.map": "/owleye/static/js/2.55656998.chunk.js.map",
+    "static/js/2.b41d6df0.chunk.js": "/owleye/static/js/2.b41d6df0.chunk.js",
+    "static/js/2.b41d6df0.chunk.js.map": "/owleye/static/js/2.b41d6df0.chunk.js.map",
     "index.html": "/owleye/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/owleye/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.68c6739c.chunk.css.map": "/owleye/static/css/main.68c6739c.chunk.css.map",
-    "static/js/2.55656998.chunk.js.LICENSE.txt": "/owleye/static/js/2.55656998.chunk.js.LICENSE.txt",
-    "static/media/client1.cbc6732f.jpg": "/owleye/static/media/client1.cbc6732f.jpg",
-    "static/media/client2.62385c5a.jpg": "/owleye/static/media/client2.62385c5a.jpg",
-    "static/media/client3.1155cfe8.jpg": "/owleye/static/media/client3.1155cfe8.jpg",
-    "static/media/client4.a8aa7650.jpg": "/owleye/static/media/client4.a8aa7650.jpg",
+    "static/css/main.cdae5e68.chunk.css.map": "/owleye/static/css/main.cdae5e68.chunk.css.map",
+    "static/js/2.b41d6df0.chunk.js.LICENSE.txt": "/owleye/static/js/2.b41d6df0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/owleye/static/media/temp.4f7d3e58.jpg",
-    "static/media/img.879e412c.jpg": "/owleye/static/media/img.879e412c.jpg",
-    "static/media/img1.9498ae4b.jpg": "/owleye/static/media/img1.9498ae4b.jpg",
-    "static/media/img2.6415c63e.jpg": "/owleye/static/media/img2.6415c63e.jpg",
     "static/media/logo.5fac556d.png": "/owleye/static/media/logo.5fac556d.png",
     "static/media/pizza.0e80122f.jpg": "/owleye/static/media/pizza.0e80122f.jpg",
     "static/media/pizza1.9b69ce8b.jpg": "/owleye/static/media/pizza1.9b69ce8b.jpg",
@@ -30,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.cef5e35a.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.55656998.chunk.js",
-    "static/css/main.68c6739c.chunk.css",
-    "static/js/main.3e070f7e.chunk.js"
+    "static/js/2.b41d6df0.chunk.js",
+    "static/css/main.cdae5e68.chunk.css",
+    "static/js/main.18ebdb47.chunk.js"
   ]
 }
